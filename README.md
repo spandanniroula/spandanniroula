@@ -1,2 +1,1 @@
-I dont like programming
-
+I hate code

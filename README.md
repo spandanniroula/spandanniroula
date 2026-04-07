@@ -1,1 +1,2 @@
-I hate code..
+I hate code
+haha
